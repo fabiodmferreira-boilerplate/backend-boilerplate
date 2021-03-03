@@ -38,7 +38,7 @@
         "lodash": "^4.17.15",
         "lusca": "^1.6.1",
         "morgan": "^1.9.1",
-        "pug": "^2.0.4",
+        "pug": "^3.0.1",
         "reflect-metadata": "^0.1.13",
         "request": "^2.88.0",
         "request-promise": "^4.2.4",
